@@ -1,0 +1,14 @@
+{
+  "name": "@phazonoverload/first-package",
+  "version": "0.0.3",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "yargs": "^17.7.2"
+  },
+  "bin": {
+    "build": "./bin.js"
+  },
+  "scripts": {
+    "start": "node ./bin.js"
+  }
+}
